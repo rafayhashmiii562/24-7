@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "steve",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "palyXtremeCraft.aternos.me",
     "port": 62631,
-    "version": "26.3",
+    "version": "26.3(262)",
     "try-creative": false
   },
   "position": {
