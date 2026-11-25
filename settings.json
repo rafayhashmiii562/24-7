@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "steve",
   "bot-account": {
     "username": "steve",
     "password": "",
-    "type": "online"
+    "type": "ofline"
   },
   "server": {
     "ip": "palyXtremeCraft.aternos.me",
